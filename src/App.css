@@ -1,0 +1,27 @@
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.tamano {
+  width: 10%;
+}
+hola{
+  border: 3px;
+  border-style: solid;
+  border-color: rgb(213,153, 54);
+}
+.separador{
+  margin-top: 100px;
+}
+.fondo{
+  background-color: '#D59936';
+  border: 3px;
+  border-style: solid;
+  border-color: rgb(213, 153, 54);
+}
+
+input{
+  color: 'white'
+}

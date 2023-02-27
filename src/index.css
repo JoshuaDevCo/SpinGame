@@ -1,0 +1,10 @@
+body {
+  background-image: url("/metanetworkbg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:top;
+  height: 100%;
+  font-family: var(--font);
+  color: var(--text-color);
+  }
+
